@@ -1,5 +1,55 @@
 .App {
   text-align: center;
+  background: #ff829a;
+  border: 1px solid #EEE;
+  border-radius: 8px;
+  box-shadow: 0px 2px 0px #CCC;
+  padding: 20px;
+  width: 350px;
+}
+button {
+  border-style: solid;
+  width: 100%;
+  width: 100px;
+  background-color: #356E9A;
+  border: none;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.judul {
+  background-color: #282c34;
+  color: pink;
+  font-weight: bold;
+  border-style: solid;
+  border: 1px solid #EEE;
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 4px;
+}
+.x {
+  background-color: pink;
+  border-style: solid;
+  border: 1px solid #EEE;
+  box-shadow: 0px 2px 2px #CCC;
+  height: 25px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.y {
+  background-color: pink;
+  border-style: solid;
+  border: 1px solid #EEE;
+  height: 25px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+input {
+  background-color: #FFD1B0;
+  border-radius: 4px;
 }
 
 .App-logo {
